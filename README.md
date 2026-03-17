@@ -4,6 +4,9 @@ This is a small **practice project** built while learning JavaScript and fronten
 
 The project creates an interactive **progress step component** where users can move forward and backward through steps using **Next** and **Prev** buttons.
 
+##  Live Demo
+https://neculai-anghelina.github.io/progress-steps-practice/
+
 ## What It Does
 
 * Displays multiple step circles
